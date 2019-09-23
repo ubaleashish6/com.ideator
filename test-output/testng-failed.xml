@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [The ideator Suite]">
+  <test name="Tests com.test.PublicUser(failed)">
+    <classes>
+      <class name="com.test.PublicUser">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+          <include name="afterSuite"/>
+          <include name="afterClass"/>
+          <include name="searchIdeaFunctionality"/>
+          <include name="beforeSuite"/>
+          <include name="checkCommunitySwitcher"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.test.PublicUser -->
+    </classes>
+  </test> <!-- Tests com.test.PublicUser(failed) -->
+</suite> <!-- Failed suite [The ideator Suite] -->

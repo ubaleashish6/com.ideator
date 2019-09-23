@@ -1,0 +1,786 @@
+2017-01-09 15:21:11,048 [main] INFO com.ideator.page.LoginPage - Click on Login Button
+2017-02-10 19:19:24,950 [main] INFO com.ideator.page.LoginPage - Click on Login Button
+2017-02-10 19:19:26,501 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-10 19:19:26,504 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      isCommunitySwitcher     $$$$$$$$$$
+2017-02-10 19:19:26,504 [main] INFO com.test.SuperAdminTest - Check if the user belong to more than one community
+2017-02-10 19:19:35,612 [main] INFO com.test.SuperAdminTest - Community Switcher is Present
+2017-02-10 19:19:49,209 [main] INFO com.ideator.page.superadmin.SuperAdminLoginPage - Click On Ideator Community
+2017-02-10 19:19:51,254 [main] INFO com.ideator.util.PageClass - XXXXXXXX       -E---N---D-     XXXXXXXXXX
+2017-02-10 19:19:51,255 [main] INFO com.ideator.util.PageClass - CommunitySwitcher method is Passed
+2017-02-10 19:20:02,670 [main] INFO com.test.SuperAdminTest - Community Platform Settings Private
+2017-02-10 19:20:02,670 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      platformSettingPrivate     $$$$$$$$$$
+2017-02-10 19:20:02,687 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Click on Superadmin Tab
+2017-02-10 19:20:15,413 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Go to Superadmin section and click on UCSD Community
+2017-02-10 19:20:27,601 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Make platforn Setting Private and Save the setting
+2017-02-10 19:20:39,619 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Navigate UCSD Without Logout
+2017-02-10 19:20:39,619 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Click on Sign Out Tab
+2017-02-10 19:20:53,998 [main] INFO com.ideator.util.PageClass - ***** Error :: platformSettingPrivate test has failed *****
+2017-02-10 19:20:56,617 [main] INFO com.ideator.util.PageClass - Screenshot is taken
+2017-02-10 19:20:56,691 [main] INFO com.ideator.util.PageClass - Testcase : platformSettingPrivate is failed
+2017-02-10 19:21:04,261 [main] INFO com.test.SuperAdminTest - Community Platform Settings Public Closed
+2017-02-10 19:21:04,261 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      platformSettingublic     $$$$$$$$$$
+2017-02-10 19:21:04,261 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Click on Superadmin Tab
+2017-02-10 19:21:15,050 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Go to Superadmin section and click on UCSD Community
+2017-02-10 19:21:27,294 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Make platforn Setting PublicClosed and Save the setting
+2017-02-10 19:21:28,841 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Navigate UCSD Without Logout
+2017-02-10 19:21:28,841 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Click on Sign Out Tab
+2017-02-10 19:21:39,548 [main] INFO com.ideator.util.PageClass - ***** Error :: platformSettingPublicClose test has failed *****
+2017-02-10 19:21:39,692 [main] INFO com.ideator.util.PageClass - Screenshot is taken
+2017-02-10 19:21:39,700 [main] INFO com.ideator.util.PageClass - Testcase : platformSettingPublicClose is failed
+2017-02-10 19:21:45,016 [main] INFO com.test.SuperAdminTest - Community Platform Settings Public Open
+2017-02-10 19:21:45,016 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      platformSettingPublicOpen     $$$$$$$$$$
+2017-02-10 19:21:45,016 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Click on Superadmin Tab
+2017-02-10 19:21:50,800 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Go to Superadmin section and click on UCSD Community
+2017-02-10 19:22:06,167 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Make a platform Setting Public Open and Save the Setting
+2017-02-10 19:22:12,862 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Navigate UCSD Without Logout
+2017-02-10 19:22:12,863 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Click on Sign Out Tab
+2017-02-10 19:22:25,787 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Close new tab Opened Community and get back to main page
+2017-02-10 19:22:27,413 [main] INFO com.ideator.page.superadmin.SuperAdminLoginPage - Enter Username and Password and click on Submit Button
+2017-02-10 19:22:34,424 [main] INFO com.ideator.page.superadmin.SuperAdminLoginPage - Click On Ideator Community
+2017-02-10 19:22:34,424 [main] INFO com.ideator.util.PageClass - XXXXXXXX       -E---N---D-     XXXXXXXXXX
+2017-02-10 19:22:34,424 [main] INFO com.ideator.util.PageClass - platformSettingPublicOpen method is Passed
+2017-02-10 19:22:40,608 [main] INFO com.test.SuperAdminTest - User Profile Simplified
+2017-02-10 19:22:40,609 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      User Profile Simplified     $$$$$$$$$$
+2017-02-10 19:22:40,609 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Click on Superadmin Tab
+2017-02-10 19:22:46,485 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Go to Superadmin section and click on CybageAcceptanceCommunity Community
+2017-02-10 19:23:05,158 [main] INFO com.ideator.util.PageClass - ***** Error :: simpleProfile test has failed *****
+2017-02-10 19:23:05,740 [main] INFO com.ideator.util.PageClass - Screenshot is taken
+2017-02-10 19:23:05,743 [main] INFO com.ideator.util.PageClass - Testcase : simpleProfile is failed
+2017-02-10 19:23:13,432 [main] INFO com.test.SuperAdminTest - User Profile Detailed
+2017-02-10 19:23:13,432 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      User Profile Detailed     $$$$$$$$$$
+2017-02-10 19:23:13,433 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Click on Superadmin Tab
+2017-02-10 19:23:20,361 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Go to Superadmin section and click on CybageAcceptanceCommunity Community
+2017-02-10 19:23:35,513 [main] INFO com.ideator.util.PageClass - ***** Error :: detailedProfile test has failed *****
+2017-02-10 19:23:36,033 [main] INFO com.ideator.util.PageClass - Screenshot is taken
+2017-02-10 19:23:36,036 [main] INFO com.ideator.util.PageClass - Testcase : detailedProfile is failed
+2017-02-10 19:23:44,041 [main] INFO com.test.SuperAdminTest - Site Editor Settings On
+2017-02-10 19:23:44,042 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      Site Editor Settings On     $$$$$$$$$$
+2017-02-10 19:23:44,042 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Click on Superadmin Tab
+2017-02-10 19:23:49,836 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Go to Superadmin section and click on CybageAcceptanceCommunity Community
+2017-02-10 19:24:00,048 [main] INFO com.ideator.page.superadmin.EditCommunityPage - ON site Editor Toggle so that Site Editor Tab is Avaliable on Admin Section
+2017-02-10 19:24:21,767 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Navigate CybageAcceptance Without Logout
+2017-02-10 19:24:21,768 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Click on Admin Tab
+2017-02-10 19:24:31,862 [main] INFO com.ideator.util.PageClass - ***** Error :: siteEditorOn test has failed *****
+2017-02-10 19:24:31,953 [main] INFO com.ideator.util.PageClass - Screenshot is taken
+2017-02-10 19:24:31,957 [main] INFO com.ideator.util.PageClass - Testcase : siteEditorOn is failed
+2017-02-10 19:24:37,485 [main] INFO com.test.SuperAdminTest - Site Editor Settings Off
+2017-02-10 19:24:37,486 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      Site Editor Settings Off     $$$$$$$$$$
+2017-02-10 19:24:37,486 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Click on Superadmin Tab
+2017-02-10 19:24:42,838 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Go to Superadmin section and click on CybageAcceptanceCommunity Community
+2017-02-10 19:24:53,183 [main] INFO com.ideator.page.superadmin.EditCommunityPage - OFF site Editor Toggle so that Site Editor Tab is not Avaliable on Admin Section
+2017-02-10 19:25:06,778 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Navigate CybageAcceptance Without Logout
+2017-02-10 19:25:06,778 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Click on Admin Tab
+2017-02-10 19:25:28,425 [main] INFO com.test.SuperAdminTest - Site Editor Settings Off is passed
+2017-02-10 19:25:48,857 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Close new tab Opened Community and get back to main page
+2017-02-10 19:25:48,857 [main] INFO com.ideator.util.PageClass - XXXXXXXX       -E---N---D-     XXXXXXXXXX
+2017-02-10 19:25:48,858 [main] INFO com.ideator.util.PageClass - siteEditorOff method is Passed
+2017-02-10 19:25:55,475 [main] INFO com.test.SuperAdminTest - Page Editor Settings On
+2017-02-10 19:25:55,475 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      Page Editor Settings On     $$$$$$$$$$
+2017-02-10 19:25:55,475 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Click on Superadmin Tab
+2017-02-10 19:26:01,857 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Go to Superadmin section and click on CybageAcceptanceCommunity Community
+2017-02-10 19:26:14,575 [main] INFO com.ideator.page.superadmin.EditCommunityPage - ON page Editor Toggle so that page Editor Tab is Avaliable on Admin Section
+2017-02-10 19:26:19,779 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Navigate CybageAcceptance Without Logout
+2017-02-10 19:26:19,781 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Click on Admin Tab
+2017-02-10 19:26:23,432 [main] INFO com.test.SuperAdminTest - Page Editor Settings On is passed
+2017-02-10 19:26:45,843 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Close new tab Opened Community and get back to main page
+2017-02-10 19:26:45,843 [main] INFO com.ideator.util.PageClass - XXXXXXXX       -E---N---D-     XXXXXXXXXX
+2017-02-10 19:26:45,844 [main] INFO com.ideator.util.PageClass - pageEditorOn method is Passed
+2017-02-10 19:26:50,038 [main] INFO com.test.SuperAdminTest - Page Editor Settings Off
+2017-02-10 19:26:50,039 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      Page Editor Settings Off     $$$$$$$$$$
+2017-02-10 19:26:50,039 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Click on Superadmin Tab
+2017-02-10 19:26:56,777 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Go to Superadmin section and click on CybageAcceptanceCommunity Community
+2017-02-10 19:27:07,202 [main] INFO com.ideator.page.superadmin.EditCommunityPage - OFF page Editor Toggle so that page Editor Tab is not Avaliable on Admin Section
+2017-02-10 19:27:15,579 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Navigate CybageAcceptance Without Logout
+2017-02-10 19:27:15,579 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Click on Admin Tab
+2017-02-10 19:27:30,164 [main] INFO com.test.SuperAdminTest - Page Editor Settings Off is passed
+2017-02-10 19:27:55,604 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Close new tab Opened Community and get back to main page
+2017-02-10 19:27:55,604 [main] INFO com.ideator.util.PageClass - XXXXXXXX       -E---N---D-     XXXXXXXXXX
+2017-02-10 19:27:55,608 [main] INFO com.ideator.util.PageClass - pageEditorOff method is Passed
+2017-02-10 19:28:00,098 [main] INFO com.test.SuperAdminTest - Powered By Logo Settings On
+2017-02-10 19:28:00,098 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      Powered By Logo Settings On     $$$$$$$$$$
+2017-02-10 19:28:00,098 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Click on Superadmin Tab
+2017-02-10 19:28:06,167 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Go to Superadmin section and click on CybageAcceptanceCommunity Community
+2017-02-10 19:28:16,373 [main] INFO com.ideator.page.superadmin.EditCommunityPage - ON Powered by logo
+2017-02-10 19:28:20,997 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Navigate CybageAcceptance Without Logout
+2017-02-10 19:28:21,352 [main] INFO com.test.SuperAdminTest - Powered By Logo Settings On is passed
+2017-02-10 19:28:36,758 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Close new tab Opened Community and get back to main page
+2017-02-10 19:28:36,758 [main] INFO com.ideator.util.PageClass - XXXXXXXX       -E---N---D-     XXXXXXXXXX
+2017-02-10 19:28:36,759 [main] INFO com.ideator.util.PageClass - poewredByLogoOn method is Passed
+2017-02-10 19:28:41,787 [main] INFO com.test.SuperAdminTest - Powered By Logo Settings Off
+2017-02-10 19:28:41,787 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      Powered By Logo Settings Off     $$$$$$$$$$
+2017-02-10 19:28:41,787 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Click on Superadmin Tab
+2017-02-10 19:28:46,802 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Go to Superadmin section and click on CybageAcceptanceCommunity Community
+2017-02-10 19:29:12,085 [main] INFO com.ideator.page.superadmin.EditCommunityPage - OFF Powered by logo and Save the settings
+2017-02-10 19:29:16,143 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Navigate CybageAcceptance Without Logout
+2017-02-10 19:29:27,037 [main] INFO com.test.SuperAdminTest - Powered By Logo Settings Off is passed
+2017-02-10 19:29:42,548 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Close new tab Opened Community and get back to main page
+2017-02-10 19:29:42,548 [main] INFO com.ideator.util.PageClass - XXXXXXXX       -E---N---D-     XXXXXXXXXX
+2017-02-10 19:29:42,549 [main] INFO com.ideator.util.PageClass - poewredByLogoOff method is Passed
+2017-02-10 19:29:48,597 [main] INFO com.test.SuperAdminTest - Calender Integration Settings On
+2017-02-10 19:29:48,597 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      Calender Integration Settings On     $$$$$$$$$$
+2017-02-10 19:29:48,597 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Click on Superadmin Tab
+2017-02-10 19:29:56,117 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Go to Superadmin section and click on CybageAcceptanceCommunity Community
+2017-02-10 19:30:06,375 [main] INFO com.ideator.page.superadmin.EditCommunityPage - ON CalenderIntegration and Save the Settings
+2017-02-10 19:30:11,911 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Navigate CybageAcceptance Without Logout
+2017-02-10 19:30:11,911 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Click on My Profile Tab
+2017-02-10 19:30:20,187 [main] INFO com.test.SuperAdminTest - Calender Integration Settings On is passed
+2017-02-10 19:30:34,145 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Close new tab Opened Community and get back to main page
+2017-02-10 19:30:34,146 [main] INFO com.ideator.util.PageClass - XXXXXXXX       -E---N---D-     XXXXXXXXXX
+2017-02-10 19:30:34,146 [main] INFO com.ideator.util.PageClass - calenderIntegrationOn method is Passed
+2017-02-10 19:30:38,859 [main] INFO com.test.SuperAdminTest - Calender Integration Settings Off
+2017-02-10 19:30:38,860 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      Calender Integration Settings Off     $$$$$$$$$$
+2017-02-10 19:30:38,860 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Click on Superadmin Tab
+2017-02-10 19:30:44,187 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Go to Superadmin section and click on CybageAcceptanceCommunity Community
+2017-02-10 19:31:09,477 [main] INFO com.ideator.page.superadmin.EditCommunityPage - OFF CalenderIntegration and Save the Settings
+2017-02-10 19:31:13,259 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Navigate CybageAcceptance Without Logout
+2017-02-10 19:31:13,259 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Click on My Profile Tab
+2017-02-10 19:31:30,044 [main] INFO com.test.SuperAdminTest - Calender Integration Settings Off is passed
+2017-02-10 19:31:42,930 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Close new tab Opened Community and get back to main page
+2017-02-10 19:31:42,930 [main] INFO com.ideator.util.PageClass - XXXXXXXX       -E---N---D-     XXXXXXXXXX
+2017-02-10 19:31:42,931 [main] INFO com.ideator.util.PageClass - calenderIntegrationOff method is Passed
+2017-02-10 19:52:58,603 [main] INFO com.ideator.page.LoginPage - Click on Login Button
+2017-02-10 19:52:59,270 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-10 19:52:59,277 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      isCommunitySwitcher     $$$$$$$$$$
+2017-02-10 19:52:59,278 [main] INFO com.test.SuperAdminTest - Check if the user belong to more than one community
+2017-02-10 19:53:07,180 [main] INFO com.test.SuperAdminTest - Community Switcher is Present
+2017-02-10 19:53:17,193 [main] INFO com.ideator.page.superadmin.SuperAdminLoginPage - Click On Ideator Community
+2017-02-10 19:53:18,978 [main] INFO com.ideator.util.PageClass - XXXXXXXX       -E---N---D-     XXXXXXXXXX
+2017-02-10 19:53:18,979 [main] INFO com.ideator.util.PageClass - CommunitySwitcher method is Passed
+2017-02-10 19:53:32,414 [main] INFO com.test.SuperAdminTest - Community Platform Settings Private
+2017-02-10 19:53:33,647 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      platformSettingPrivate     $$$$$$$$$$
+2017-02-10 19:53:37,068 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Click on Superadmin Tab
+2017-02-10 19:53:48,196 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Go to Superadmin section and click on UCSD Community
+2017-02-10 19:54:01,232 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Make platforn Setting Private and Save the setting
+2017-02-10 19:54:15,424 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Navigate UCSD Without Logout
+2017-02-10 19:54:15,426 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Click on Sign Out Tab
+2017-02-10 19:54:31,120 [main] INFO com.ideator.util.PageClass - ***** Error :: platformSettingPrivate test has failed *****
+2017-02-10 19:54:31,257 [main] INFO com.ideator.util.PageClass - Screenshot is taken
+2017-02-10 19:54:31,265 [main] INFO com.ideator.util.PageClass - Testcase : platformSettingPrivate is failed
+2017-02-10 20:00:33,891 [main] INFO com.ideator.page.LoginPage - Click on Login Button
+2017-02-10 20:00:34,446 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-10 20:00:34,454 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      isCommunitySwitcher     $$$$$$$$$$
+2017-02-10 20:00:34,454 [main] INFO com.test.SuperAdminTest - Check if the user belong to more than one community
+2017-02-10 20:00:39,412 [main] INFO com.test.SuperAdminTest - Community Switcher is Present
+2017-02-10 20:00:45,600 [main] INFO com.ideator.page.superadmin.SuperAdminLoginPage - Click On Ideator Community
+2017-02-10 20:00:47,372 [main] INFO com.ideator.util.PageClass - XXXXXXXX       -E---N---D-     XXXXXXXXXX
+2017-02-10 20:00:47,373 [main] INFO com.ideator.util.PageClass - CommunitySwitcher method is Passed
+2017-02-10 20:00:51,013 [main] INFO com.test.SuperAdminTest - Community Platform Settings Private
+2017-02-10 20:00:51,013 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      platformSettingPrivate     $$$$$$$$$$
+2017-02-10 20:00:51,016 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Click on Superadmin Tab
+2017-02-10 20:00:57,370 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Go to Superadmin section and click on CybageAcceptanceCommunity Community
+2017-02-10 20:01:09,630 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Make platforn Setting Private and Save the setting
+2017-02-10 20:01:16,082 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Navigate CybageAcceptance Without Logout
+2017-02-10 20:01:16,082 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Click on Sign Out Tab
+2017-02-10 20:01:25,983 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Close new tab Opened Community and get back to main page
+2017-02-10 20:01:27,086 [main] INFO com.ideator.page.superadmin.SuperAdminLoginPage - Enter Username and Password and click on Submit Button
+2017-02-10 20:01:32,232 [main] INFO com.ideator.page.superadmin.SuperAdminLoginPage - Click On Ideator Community
+2017-02-10 20:01:32,233 [main] INFO com.ideator.util.PageClass - XXXXXXXX       -E---N---D-     XXXXXXXXXX
+2017-02-10 20:01:32,233 [main] INFO com.ideator.util.PageClass - platformSettingPrivate method is Passed
+2017-02-10 20:01:36,668 [main] INFO com.test.SuperAdminTest - Community Platform Settings Public Closed
+2017-02-10 20:01:36,669 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      platformSettingublic     $$$$$$$$$$
+2017-02-10 20:01:36,669 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Click on Superadmin Tab
+2017-02-10 20:01:41,518 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Go to Superadmin section and click on CybageAcceptanceCommunity Community
+2017-02-10 20:01:53,915 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Make platforn Setting PublicClosed and Save the setting
+2017-02-10 20:01:56,646 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Navigate CybageAcceptance Without Logout
+2017-02-10 20:01:56,646 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Click on Sign Out Tab
+2017-02-10 20:02:05,065 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Close new tab Opened Community and get back to main page
+2017-02-10 20:02:06,705 [main] INFO com.ideator.page.superadmin.SuperAdminLoginPage - Enter Username and Password and click on Submit Button
+2017-02-10 20:02:11,938 [main] INFO com.ideator.page.superadmin.SuperAdminLoginPage - Click On Ideator Community
+2017-02-10 20:02:11,938 [main] INFO com.ideator.util.PageClass - XXXXXXXX       -E---N---D-     XXXXXXXXXX
+2017-02-10 20:02:11,939 [main] INFO com.ideator.util.PageClass - platformSettingPublicClose method is Passed
+2017-02-10 20:02:16,772 [main] INFO com.test.SuperAdminTest - Site Editor Settings On
+2017-02-10 20:02:16,773 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      Site Editor Settings On     $$$$$$$$$$
+2017-02-10 20:02:16,773 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Click on Superadmin Tab
+2017-02-10 20:02:21,210 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Go to Superadmin section and click on CybageAcceptanceCommunity Community
+2017-02-10 20:02:31,552 [main] INFO com.ideator.page.superadmin.EditCommunityPage - ON site Editor Toggle so that Site Editor Tab is Avaliable on Admin Section
+2017-02-10 20:02:34,781 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Navigate CybageAcceptance Without Logout
+2017-02-10 20:02:34,781 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Click on Admin Tab
+2017-02-10 20:02:37,988 [main] INFO com.test.SuperAdminTest - Site Editor Settings On is passed
+2017-02-10 20:02:48,984 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Close new tab Opened Community and get back to main page
+2017-02-10 20:02:48,984 [main] INFO com.ideator.util.PageClass - XXXXXXXX       -E---N---D-     XXXXXXXXXX
+2017-02-10 20:02:48,984 [main] INFO com.ideator.util.PageClass - siteEditorOn method is Passed
+2017-02-10 20:05:51,276 [main] INFO com.ideator.page.LoginPage - Click on Login Button
+2017-02-10 20:05:59,381 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      addAdminRole     $$$$$$$$$$
+2017-02-10 20:05:59,382 [main] INFO com.test.AdminTest - Make user Community Admin
+2017-02-10 20:05:59,413 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-10 20:06:00,424 [main] INFO com.ideator.util.PageClass - ***** Error :: addAdminRole test has failed *****
+2017-02-10 20:07:08,167 [main] INFO com.ideator.page.LoginPage - Click on Login Button
+2017-02-10 20:07:18,791 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-10 20:07:18,797 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      addAdminRole     $$$$$$$$$$
+2017-02-10 20:07:18,798 [main] INFO com.test.AdminTest - Make user Community Admin
+2017-02-10 20:07:18,803 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-10 20:07:27,296 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - MakeAdminRole method is start
+2017-02-10 20:07:38,176 [main] INFO com.ideator.util.PageClass - ***** Error :: addAdminRole test has failed *****
+2017-02-10 20:07:38,302 [main] INFO com.ideator.util.PageClass - Screenshot is taken
+2017-02-10 20:07:38,307 [main] INFO com.ideator.util.PageClass - Testcase : addAdminRole is failed
+2017-02-10 20:07:41,508 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      removeAdminRole     $$$$$$$$$$
+2017-02-10 20:07:41,508 [main] INFO com.test.AdminTest - Remove Admin role from User
+2017-02-10 20:07:41,509 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-10 20:07:51,853 [main] INFO com.ideator.util.PageClass - ***** Error :: removeAdminRole test has failed *****
+2017-02-10 20:07:51,995 [main] INFO com.ideator.util.PageClass - Screenshot is taken
+2017-02-10 20:07:51,998 [main] INFO com.ideator.util.PageClass - Testcase : removeAdminRole is failed
+2017-02-10 20:07:54,847 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      createGroup     $$$$$$$$$$
+2017-02-10 20:07:54,848 [main] INFO com.test.AdminTest - Create User group
+2017-02-10 20:07:54,848 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-10 20:07:59,574 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Selenium Test is created and saved
+2017-02-10 20:08:01,390 [main] INFO com.ideator.util.PageClass - createGroup method is Passed
+2017-02-10 20:08:04,685 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      addUserToGroup     $$$$$$$$$$
+2017-02-10 20:08:04,685 [main] INFO com.test.AdminTest - Add users to the newly created group
+2017-02-10 20:08:04,685 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-10 20:08:24,555 [main] INFO com.ideator.util.PageClass - ***** Error :: addUserToGroup test has failed *****
+2017-02-10 20:08:24,893 [main] INFO com.ideator.util.PageClass - Screenshot is taken
+2017-02-10 20:08:24,895 [main] INFO com.ideator.util.PageClass - Testcase : addUserToGroup is failed
+2017-02-10 20:08:28,065 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      editUserGroup     $$$$$$$$$$
+2017-02-10 20:08:28,065 [main] INFO com.test.AdminTest - edit user group
+2017-02-10 20:08:28,065 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-10 20:08:33,143 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Selenium Test is updated by this Selenium Test Group group
+2017-02-10 20:08:34,740 [main] INFO com.ideator.util.PageClass - editUserGroup method is Passed
+2017-02-10 20:08:38,769 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      deleteGroup     $$$$$$$$$$
+2017-02-10 20:08:38,770 [main] INFO com.test.AdminTest - Delete user group
+2017-02-10 20:08:38,770 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-10 20:08:43,771 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Selenium Test Group group is deleted.
+2017-02-10 20:08:53,869 [main] INFO com.ideator.util.PageClass - deleteGroup method is Passed
+2017-02-10 20:08:56,608 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      create_edit_Resource     $$$$$$$$$$
+2017-02-10 20:08:56,608 [main] INFO com.test.AdminTest - Create and Edit Resource
+2017-02-10 20:08:56,608 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-10 20:09:10,322 [main] INFO com.ideator.util.PageClass - ***** Error :: create_edit_Resource test has failed *****
+2017-02-10 20:09:10,452 [main] INFO com.ideator.util.PageClass - Screenshot is taken
+2017-02-10 20:09:10,456 [main] INFO com.ideator.util.PageClass - Testcase : create_edit_Resource is failed
+2017-02-10 20:09:13,765 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      createResourceCategory     $$$$$$$$$$
+2017-02-10 20:09:13,765 [main] INFO com.test.AdminTest - Create Resource Category
+2017-02-10 20:09:13,765 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-10 20:09:26,235 [main] INFO com.ideator.util.PageClass - ***** Error :: createResourceCategory test has failed *****
+2017-02-10 20:09:26,365 [main] INFO com.ideator.util.PageClass - Screenshot is taken
+2017-02-10 20:09:26,367 [main] INFO com.ideator.util.PageClass - Testcase : createResourceCategory is failed
+2017-02-10 20:12:46,434 [main] INFO com.ideator.page.LoginPage - Click on Login Button
+2017-02-10 20:13:26,766 [main] INFO com.ideator.page.LoginPage - Click on Login Button
+2017-02-10 20:13:37,429 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-10 20:13:49,034 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      addAdminRole     $$$$$$$$$$
+2017-02-10 20:13:50,231 [main] INFO com.test.AdminTest - Make user Community Admin
+2017-02-10 20:13:52,134 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-10 20:13:59,070 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - MakeAdminRole method is start
+2017-02-14 19:10:08,085 [main] INFO com.ideator.page.LoginPage - Click on Login Button
+2017-02-14 19:10:19,252 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-14 19:10:19,265 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      addAdminRole     $$$$$$$$$$
+2017-02-14 19:10:19,265 [main] INFO com.test.AdminTest - Make user Community Admin
+2017-02-14 19:10:19,269 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-14 19:10:30,985 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - MakeAdminRole method is start
+2017-02-14 19:10:41,966 [main] INFO com.ideator.util.PageClass - ***** Error :: addAdminRole test has failed *****
+2017-02-14 19:10:42,155 [main] INFO com.ideator.util.PageClass - Screenshot is taken
+2017-02-14 19:10:42,284 [main] INFO com.ideator.util.PageClass - Testcase : addAdminRole is failed
+2017-02-14 19:10:47,108 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      removeAdminRole     $$$$$$$$$$
+2017-02-14 19:10:47,109 [main] INFO com.test.AdminTest - Remove Admin role from User
+2017-02-14 19:10:47,109 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-14 19:10:59,994 [main] INFO com.ideator.util.PageClass - ***** Error :: removeAdminRole test has failed *****
+2017-02-14 19:11:00,143 [main] INFO com.ideator.util.PageClass - Screenshot is taken
+2017-02-14 19:11:00,146 [main] INFO com.ideator.util.PageClass - Testcase : removeAdminRole is failed
+2017-02-14 19:11:03,989 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      createGroup     $$$$$$$$$$
+2017-02-14 19:11:03,989 [main] INFO com.test.AdminTest - Create User group
+2017-02-14 19:11:03,989 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-14 19:11:17,637 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Selenium Test is created and saved
+2017-02-14 19:11:18,465 [main] INFO com.ideator.util.PageClass - createGroup method is Passed
+2017-02-14 19:11:21,757 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      addUserToGroup     $$$$$$$$$$
+2017-02-14 19:11:21,757 [main] INFO com.test.AdminTest - Add users to the newly created group
+2017-02-14 19:11:21,757 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-14 19:11:41,865 [main] INFO com.ideator.util.PageClass - ***** Error :: addUserToGroup test has failed *****
+2017-02-14 19:11:42,211 [main] INFO com.ideator.util.PageClass - Screenshot is taken
+2017-02-14 19:11:42,216 [main] INFO com.ideator.util.PageClass - Testcase : addUserToGroup is failed
+2017-02-14 19:11:45,669 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      editUserGroup     $$$$$$$$$$
+2017-02-14 19:11:45,669 [main] INFO com.test.AdminTest - edit user group
+2017-02-14 19:11:45,669 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-14 19:11:50,950 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Selenium Test is updated by this Selenium Test Group group
+2017-02-14 19:11:52,379 [main] INFO com.ideator.util.PageClass - editUserGroup method is Passed
+2017-02-14 19:11:58,241 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      deleteGroup     $$$$$$$$$$
+2017-02-14 19:11:58,241 [main] INFO com.test.AdminTest - Delete user group
+2017-02-14 19:11:58,242 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-14 19:12:02,286 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Selenium Test Group group is deleted.
+2017-02-14 19:12:12,414 [main] INFO com.ideator.util.PageClass - deleteGroup method is Passed
+2017-02-14 19:12:16,519 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      create_edit_Resource     $$$$$$$$$$
+2017-02-14 19:12:16,519 [main] INFO com.test.AdminTest - Create and Edit Resource
+2017-02-14 19:12:16,519 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-14 19:12:29,458 [main] INFO com.ideator.util.PageClass - ***** Error :: create_edit_Resource test has failed *****
+2017-02-14 19:12:29,675 [main] INFO com.ideator.util.PageClass - Screenshot is taken
+2017-02-14 19:12:29,683 [main] INFO com.ideator.util.PageClass - Testcase : create_edit_Resource is failed
+2017-02-14 19:12:32,638 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      createResourceCategory     $$$$$$$$$$
+2017-02-14 19:12:32,638 [main] INFO com.test.AdminTest - Create Resource Category
+2017-02-14 19:12:32,639 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-14 19:12:46,072 [main] INFO com.ideator.util.PageClass - ***** Error :: createResourceCategory test has failed *****
+2017-02-14 19:12:46,168 [main] INFO com.ideator.util.PageClass - Screenshot is taken
+2017-02-14 19:12:46,172 [main] INFO com.ideator.util.PageClass - Testcase : createResourceCategory is failed
+2017-02-14 19:17:04,695 [main] INFO com.ideator.page.LoginPage - Click on Login Button
+2017-02-14 19:17:15,764 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-14 19:17:23,294 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      addAdminRole     $$$$$$$$$$
+2017-02-14 19:17:24,767 [main] INFO com.test.AdminTest - Make user Community Admin
+2017-02-14 19:17:26,153 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-14 19:17:43,351 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - MakeAdminRole method is start
+2017-02-15 11:43:23,818 [main] INFO com.ideator.page.LoginPage - Click on Login Button
+2017-02-15 11:43:34,457 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-15 11:43:34,459 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      addAdminRole     $$$$$$$$$$
+2017-02-15 11:43:34,460 [main] INFO com.test.AdminTest - Make user Community Admin
+2017-02-15 11:43:34,511 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 11:43:47,213 [main] INFO com.ideator.util.PageClass - ***** Error :: addAdminRole test has failed *****
+2017-02-15 11:44:40,746 [main] INFO com.ideator.page.LoginPage - Click on Login Button
+2017-02-15 11:44:51,776 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-15 17:16:19,999 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      addAdminRole     $$$$$$$$$$
+2017-02-15 17:16:25,023 [main] INFO com.test.AdminTest - Make user Community Admin
+2017-02-15 17:16:28,993 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 17:17:44,452 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - MakeAdminRole method is start
+2017-02-15 17:18:03,862 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Communtity admin checkbox for make user admin role 
+2017-02-15 17:18:10,127 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Sign Out Tab
+2017-02-15 17:18:13,612 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Signout from system
+2017-02-15 17:18:27,879 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-15 17:18:34,500 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 17:18:51,339 [main] INFO com.ideator.util.PageClass - addAdminRole method is Passed
+2017-02-15 17:19:05,218 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      removeAdminRole     $$$$$$$$$$
+2017-02-15 17:19:05,674 [main] INFO com.test.AdminTest - Remove Admin role from User
+2017-02-15 17:19:06,818 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 17:19:14,420 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Communtity admin checkbox for remove user admin role admin
+2017-02-15 17:19:20,964 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Sign Out Tab
+2017-02-15 17:19:22,532 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Signout from system
+2017-02-15 17:19:36,528 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-15 17:19:55,687 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 17:20:07,344 [main] INFO com.ideator.util.PageClass - ***** Error :: removeAdminRole test has failed *****
+2017-02-15 17:20:07,823 [main] INFO com.ideator.util.PageClass - Screenshot is taken
+2017-02-15 17:20:07,947 [main] INFO com.ideator.util.PageClass - Testcase : removeAdminRole is failed
+2017-02-15 17:20:15,366 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      addUserToGroup     $$$$$$$$$$
+2017-02-15 17:20:15,750 [main] INFO com.test.AdminTest - Add users to the newly created group
+2017-02-15 17:20:16,743 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 17:57:56,720 [main] INFO com.ideator.page.LoginPage - Click on Login Button
+2017-02-15 17:58:07,167 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-15 17:58:16,077 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      addAdminRole     $$$$$$$$$$
+2017-02-15 17:58:16,077 [main] INFO com.test.AdminTest - Make user Community Admin
+2017-02-15 17:58:16,108 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 17:58:26,013 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - MakeAdminRole method is start
+2017-02-15 17:58:37,319 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Communtity admin checkbox for make user admin role 
+2017-02-15 17:58:41,505 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Sign Out Tab
+2017-02-15 17:58:44,104 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Signout from system
+2017-02-15 17:58:54,803 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-15 17:58:54,803 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 17:59:07,968 [main] INFO com.ideator.util.PageClass - addAdminRole method is Passed
+2017-02-15 17:59:16,605 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      removeAdminRole     $$$$$$$$$$
+2017-02-15 17:59:17,511 [main] INFO com.test.AdminTest - Remove Admin role from User
+2017-02-15 17:59:18,551 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:00:24,167 [main] INFO com.ideator.util.PageClass - ***** Error :: removeAdminRole test has failed *****
+2017-02-15 18:00:24,612 [main] INFO com.ideator.util.PageClass - Screenshot is taken
+2017-02-15 18:00:24,671 [main] INFO com.ideator.util.PageClass - Testcase : removeAdminRole is failed
+2017-02-15 18:00:27,564 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      createGroup     $$$$$$$$$$
+2017-02-15 18:00:27,565 [main] INFO com.test.AdminTest - Create User group
+2017-02-15 18:00:27,565 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:00:38,008 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Selenium Test is created and saved
+2017-02-15 18:00:43,079 [main] INFO com.ideator.util.PageClass - createGroup method is Passed
+2017-02-15 18:00:48,130 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      addUserToGroup     $$$$$$$$$$
+2017-02-15 18:00:48,959 [main] INFO com.test.AdminTest - Add users to the newly created group
+2017-02-15 18:00:49,489 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:01:15,174 [main] INFO com.ideator.util.PageClass - ***** Error :: addUserToGroup test has failed *****
+2017-02-15 18:01:15,574 [main] INFO com.ideator.util.PageClass - Screenshot is taken
+2017-02-15 18:01:15,578 [main] INFO com.ideator.util.PageClass - Testcase : addUserToGroup is failed
+2017-02-15 18:03:48,585 [main] INFO com.ideator.page.LoginPage - Click on Login Button
+2017-02-15 18:03:59,764 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-15 18:03:59,799 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      addAdminRole     $$$$$$$$$$
+2017-02-15 18:03:59,799 [main] INFO com.test.AdminTest - Make user Community Admin
+2017-02-15 18:03:59,953 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:04:11,695 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - MakeAdminRole method is start
+2017-02-15 18:04:20,781 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Communtity admin checkbox for make user admin role 
+2017-02-15 18:04:24,977 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Sign Out Tab
+2017-02-15 18:04:26,872 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Signout from system
+2017-02-15 18:04:37,591 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-15 18:04:37,591 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:04:51,738 [main] INFO com.ideator.util.PageClass - addAdminRole method is Passed
+2017-02-15 18:04:59,590 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      removeAdminRole     $$$$$$$$$$
+2017-02-15 18:04:59,956 [main] INFO com.test.AdminTest - Remove Admin role from User
+2017-02-15 18:05:00,499 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:05:16,508 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Communtity admin checkbox for remove user admin role admin
+2017-02-15 18:05:25,764 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Sign Out Tab
+2017-02-15 18:05:28,483 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Signout from system
+2017-02-15 18:05:47,697 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-15 18:05:50,501 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:05:55,301 [main] INFO com.ideator.util.PageClass - removeAdminRole method is Passed
+2017-02-15 18:05:58,247 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      createGroup     $$$$$$$$$$
+2017-02-15 18:05:58,248 [main] INFO com.test.AdminTest - Create User group
+2017-02-15 18:05:58,248 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:07:18,059 [main] INFO com.ideator.page.LoginPage - Click on Login Button
+2017-02-15 18:07:29,002 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-15 18:07:29,007 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      addAdminRole     $$$$$$$$$$
+2017-02-15 18:07:29,008 [main] INFO com.test.AdminTest - Make user Community Admin
+2017-02-15 18:07:29,014 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:07:40,518 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - MakeAdminRole method is start
+2017-02-15 18:07:48,280 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Communtity admin checkbox for make user admin role 
+2017-02-15 18:07:52,969 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Sign Out Tab
+2017-02-15 18:07:55,273 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Signout from system
+2017-02-15 18:08:05,990 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-15 18:08:05,991 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:08:12,777 [main] INFO com.ideator.util.PageClass - addAdminRole method is Passed
+2017-02-15 18:08:17,302 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      removeAdminRole     $$$$$$$$$$
+2017-02-15 18:08:17,302 [main] INFO com.test.AdminTest - Remove Admin role from User
+2017-02-15 18:08:17,302 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:08:28,818 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Communtity admin checkbox for remove user admin role admin
+2017-02-15 18:08:37,998 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Sign Out Tab
+2017-02-15 18:08:40,488 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Signout from system
+2017-02-15 18:08:51,318 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-15 18:08:51,318 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:08:57,692 [main] INFO com.ideator.util.PageClass - ***** Error :: removeAdminRole test has failed *****
+2017-02-15 18:08:59,153 [main] INFO com.ideator.util.PageClass - Screenshot is taken
+2017-02-15 18:08:59,180 [main] INFO com.ideator.util.PageClass - Testcase : removeAdminRole is failed
+2017-02-15 18:09:08,865 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      createGroup     $$$$$$$$$$
+2017-02-15 18:09:09,433 [main] INFO com.test.AdminTest - Create User group
+2017-02-15 18:09:10,310 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:09:19,248 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Selenium Test is created and saved
+2017-02-15 18:09:24,710 [main] INFO com.ideator.util.PageClass - createGroup method is Passed
+2017-02-15 18:09:31,495 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      addUserToGroup     $$$$$$$$$$
+2017-02-15 18:09:31,967 [main] INFO com.test.AdminTest - Add users to the newly created group
+2017-02-15 18:09:32,401 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:29:47,295 [main] INFO com.ideator.page.LoginPage - Click on Login Button
+2017-02-15 18:29:58,331 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-15 18:29:58,336 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      addAdminRole     $$$$$$$$$$
+2017-02-15 18:29:58,336 [main] INFO com.test.AdminTest - Make user Community Admin
+2017-02-15 18:29:58,348 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:30:06,954 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - MakeAdminRole method is start
+2017-02-15 18:30:16,053 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Communtity admin checkbox for make user admin role 
+2017-02-15 18:30:19,525 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Sign Out Tab
+2017-02-15 18:30:21,066 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Signout from system
+2017-02-15 18:30:31,812 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-15 18:30:31,812 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:30:34,649 [main] INFO com.ideator.util.PageClass - ***** Error :: addAdminRole test has failed *****
+2017-02-15 18:30:34,794 [main] INFO com.ideator.util.PageClass - Screenshot is taken
+2017-02-15 18:30:34,799 [main] INFO com.ideator.util.PageClass - Testcase : addAdminRole is failed
+2017-02-15 18:30:38,366 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      removeAdminRole     $$$$$$$$$$
+2017-02-15 18:30:38,366 [main] INFO com.test.AdminTest - Remove Admin role from User
+2017-02-15 18:30:38,367 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:30:50,283 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Communtity admin checkbox for remove user admin role admin
+2017-02-15 18:30:56,853 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Sign Out Tab
+2017-02-15 18:30:58,247 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Signout from system
+2017-02-15 18:31:08,985 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-15 18:31:08,986 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:31:11,817 [main] INFO com.ideator.util.PageClass - removeAdminRole method is Passed
+2017-02-15 18:31:14,310 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      createGroup     $$$$$$$$$$
+2017-02-15 18:31:14,311 [main] INFO com.test.AdminTest - Create User group
+2017-02-15 18:31:14,311 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:31:24,553 [main] INFO com.ideator.util.PageClass - ***** Error :: createGroup test has failed *****
+2017-02-15 18:31:24,684 [main] INFO com.ideator.util.PageClass - Screenshot is taken
+2017-02-15 18:31:24,695 [main] INFO com.ideator.util.PageClass - Testcase : createGroup is failed
+2017-02-15 18:38:31,198 [main] INFO com.ideator.page.LoginPage - Click on Login Button
+2017-02-15 18:38:42,286 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-15 18:38:42,292 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      addAdminRole     $$$$$$$$$$
+2017-02-15 18:38:42,292 [main] INFO com.test.AdminTest - Make user Community Admin
+2017-02-15 18:38:42,299 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:38:52,379 [main] INFO com.ideator.util.PageClass - ***** Error :: addAdminRole test has failed *****
+2017-02-15 18:38:57,608 [main] INFO com.ideator.util.PageClass - Screenshot is taken
+2017-02-15 18:38:57,623 [main] INFO com.ideator.util.PageClass - Testcase : addAdminRole is failed
+2017-02-15 18:39:04,152 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      removeAdminRole     $$$$$$$$$$
+2017-02-15 18:39:04,152 [main] INFO com.test.AdminTest - Remove Admin role from User
+2017-02-15 18:39:04,152 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:39:22,648 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Communtity admin checkbox for remove user admin role admin
+2017-02-15 18:39:29,922 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Sign Out Tab
+2017-02-15 18:39:30,334 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Signout from system
+2017-02-15 18:39:50,433 [main] INFO com.ideator.util.PageClass - ***** Error :: removeAdminRole test has failed *****
+2017-02-15 18:39:50,778 [main] INFO com.ideator.util.PageClass - Screenshot is taken
+2017-02-15 18:39:50,782 [main] INFO com.ideator.util.PageClass - Testcase : removeAdminRole is failed
+2017-02-15 18:39:55,525 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      createGroup     $$$$$$$$$$
+2017-02-15 18:39:55,525 [main] INFO com.test.AdminTest - Create User group
+2017-02-15 18:39:55,526 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:40:02,118 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Selenium Test is created and saved
+2017-02-15 18:40:02,873 [main] INFO com.ideator.util.PageClass - createGroup method is Passed
+2017-02-15 18:40:12,954 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      addUserToGroup     $$$$$$$$$$
+2017-02-15 18:40:13,363 [main] INFO com.test.AdminTest - Add users to the newly created group
+2017-02-15 18:40:13,693 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:40:26,821 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - light1@mailinator.com is added in Selenium Test group
+2017-02-15 18:40:32,395 [main] INFO com.ideator.util.PageClass - XXXXXXXX       -E---N---D-     XXXXXXXXXX
+2017-02-15 18:40:34,703 [main] INFO com.ideator.util.PageClass - addUserToGroup method is Passed
+2017-02-15 18:40:41,013 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      create_edit_Resource     $$$$$$$$$$
+2017-02-15 18:40:41,611 [main] INFO com.test.AdminTest - Create and Edit Resource
+2017-02-15 18:40:42,210 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:41:43,120 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Selenium Test Resource is created and saved.
+2017-02-15 18:42:00,552 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Resource is edited.
+2017-02-15 18:42:13,066 [main] INFO com.ideator.util.PageClass - create_edit_Resource method is Passed
+2017-02-15 18:42:21,040 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      createResourceCategory     $$$$$$$$$$
+2017-02-15 18:42:21,627 [main] INFO com.test.AdminTest - Create Resource Category
+2017-02-15 18:42:22,216 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:42:53,897 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Resource category is created.
+2017-02-15 18:42:59,217 [main] INFO com.ideator.util.PageClass - createResourceCategory method is Passed
+2017-02-15 18:44:59,181 [main] INFO com.ideator.page.LoginPage - Click on Login Button
+2017-02-15 18:45:10,084 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-15 18:45:10,087 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      addAdminRole     $$$$$$$$$$
+2017-02-15 18:45:10,087 [main] INFO com.test.AdminTest - Make user Community Admin
+2017-02-15 18:45:10,090 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:45:19,694 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - MakeAdminRole method is start
+2017-02-15 18:45:28,066 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Communtity admin checkbox for make user admin role 
+2017-02-15 18:45:31,733 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Sign Out Tab
+2017-02-15 18:45:33,191 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Signout from system
+2017-02-15 18:45:43,934 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-15 18:45:43,934 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:45:53,523 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Sign Out Tab
+2017-02-15 18:45:56,670 [main] INFO com.ideator.util.PageClass - addAdminRole method is Passed
+2017-02-15 18:46:08,688 [main] INFO com.ideator.page.LoginPage - Click on Login Button
+2017-02-15 18:46:18,976 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-15 18:46:18,977 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      removeAdminRole     $$$$$$$$$$
+2017-02-15 18:46:18,978 [main] INFO com.test.AdminTest - Remove Admin role from User
+2017-02-15 18:46:18,978 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:46:30,758 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Communtity admin checkbox for remove user admin role admin
+2017-02-15 18:46:37,459 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Sign Out Tab
+2017-02-15 18:46:38,846 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Signout from system
+2017-02-15 18:46:49,566 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-15 18:46:49,567 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:46:52,444 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Sign Out Tab
+2017-02-15 18:46:53,826 [main] INFO com.ideator.util.PageClass - removeAdminRole method is Passed
+2017-02-15 18:47:04,875 [main] INFO com.ideator.page.LoginPage - Click on Login Button
+2017-02-15 18:47:15,186 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-15 18:47:15,186 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      createGroup     $$$$$$$$$$
+2017-02-15 18:47:15,187 [main] INFO com.test.AdminTest - Create User group
+2017-02-15 18:47:15,187 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:47:23,136 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Selenium Test is created and saved
+2017-02-15 18:47:23,146 [main] INFO com.ideator.util.PageClass - createGroup method is Passed
+2017-02-15 18:47:25,912 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      addUserToGroup     $$$$$$$$$$
+2017-02-15 18:47:25,913 [main] INFO com.test.AdminTest - Add users to the newly created group
+2017-02-15 18:47:25,913 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:47:34,102 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - light1@mailinator.com is added in Selenium Test group
+2017-02-15 18:47:38,014 [main] INFO com.ideator.util.PageClass - XXXXXXXX       -E---N---D-     XXXXXXXXXX
+2017-02-15 18:47:38,014 [main] INFO com.ideator.util.PageClass - addUserToGroup method is Passed
+2017-02-15 18:47:40,120 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      create_edit_Resource     $$$$$$$$$$
+2017-02-15 18:47:40,121 [main] INFO com.test.AdminTest - Create and Edit Resource
+2017-02-15 18:47:40,121 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:47:51,204 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Selenium Test Resource is created and saved.
+2017-02-15 18:47:57,847 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Resource is edited.
+2017-02-15 18:48:00,867 [main] INFO com.ideator.util.PageClass - create_edit_Resource method is Passed
+2017-02-15 18:48:04,391 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      createResourceCategory     $$$$$$$$$$
+2017-02-15 18:48:04,392 [main] INFO com.test.AdminTest - Create Resource Category
+2017-02-15 18:48:04,392 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:48:11,582 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Resource category is created.
+2017-02-15 18:48:12,128 [main] INFO com.ideator.util.PageClass - createResourceCategory method is Passed
+2017-02-15 18:50:40,484 [main] INFO com.ideator.page.LoginPage - Click on Login Button
+2017-02-15 18:50:51,629 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-15 18:50:51,633 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      addAdminRole     $$$$$$$$$$
+2017-02-15 18:50:51,633 [main] INFO com.test.AdminTest - Make user Community Admin
+2017-02-15 18:50:51,636 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:51:01,477 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - MakeAdminRole method is start
+2017-02-15 18:51:09,881 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Communtity admin checkbox for make user admin role 
+2017-02-15 18:51:14,865 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Sign Out Tab
+2017-02-15 18:51:17,217 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Signout from system
+2017-02-15 18:51:27,993 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-15 18:51:27,994 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:51:34,782 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Sign Out Tab
+2017-02-15 18:51:38,807 [main] INFO com.ideator.util.PageClass - addAdminRole method is Passed
+2017-02-15 18:51:50,935 [main] INFO com.ideator.page.LoginPage - Click on Login Button
+2017-02-15 18:52:01,245 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-15 18:52:01,245 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      removeAdminRole     $$$$$$$$$$
+2017-02-15 18:52:01,247 [main] INFO com.test.AdminTest - Remove Admin role from User
+2017-02-15 18:52:01,247 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:52:16,681 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Communtity admin checkbox for remove user admin role admin
+2017-02-15 18:52:23,234 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Sign Out Tab
+2017-02-15 18:52:24,713 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Signout from system
+2017-02-15 18:52:35,456 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-15 18:52:35,456 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:52:39,360 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Sign Out Tab
+2017-02-15 18:52:41,372 [main] INFO com.ideator.util.PageClass - removeAdminRole method is Passed
+2017-02-15 18:52:54,034 [main] INFO com.ideator.page.LoginPage - Click on Login Button
+2017-02-15 18:53:04,469 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-15 18:53:04,469 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      createGroup     $$$$$$$$$$
+2017-02-15 18:53:04,469 [main] INFO com.test.AdminTest - Create User group
+2017-02-15 18:53:04,471 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:53:11,571 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Selenium Test is created and saved
+2017-02-15 18:53:11,581 [main] INFO com.ideator.util.PageClass - createGroup method is Passed
+2017-02-15 18:53:14,405 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      addUserToGroup     $$$$$$$$$$
+2017-02-15 18:53:14,406 [main] INFO com.test.AdminTest - Add users to the newly created group
+2017-02-15 18:53:14,407 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:53:21,976 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - light1@mailinator.com is added in Selenium Test group
+2017-02-15 18:53:24,727 [main] INFO com.ideator.util.PageClass - XXXXXXXX       -E---N---D-     XXXXXXXXXX
+2017-02-15 18:53:24,728 [main] INFO com.ideator.util.PageClass - addUserToGroup method is Passed
+2017-02-15 18:53:27,643 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      editUserGroup     $$$$$$$$$$
+2017-02-15 18:53:27,644 [main] INFO com.test.AdminTest - edit user group
+2017-02-15 18:53:27,644 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:53:31,250 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Selenium Test is updated by this Selenium Test Group group
+2017-02-15 18:53:31,989 [main] INFO com.ideator.util.PageClass - editUserGroup method is Passed
+2017-02-15 18:53:34,334 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      deleteGroup     $$$$$$$$$$
+2017-02-15 18:53:34,334 [main] INFO com.test.AdminTest - Delete user group
+2017-02-15 18:53:34,334 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:53:38,501 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Selenium Test Group group is deleted.
+2017-02-15 18:53:48,657 [main] INFO com.ideator.util.PageClass - deleteGroup method is Passed
+2017-02-15 18:53:51,660 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      create_edit_Resource     $$$$$$$$$$
+2017-02-15 18:53:51,660 [main] INFO com.test.AdminTest - Create and Edit Resource
+2017-02-15 18:53:51,661 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:54:00,135 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Selenium Test Resource is created and saved.
+2017-02-15 18:54:07,844 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Resource is edited.
+2017-02-15 18:54:09,845 [main] INFO com.ideator.util.PageClass - create_edit_Resource method is Passed
+2017-02-15 18:54:12,662 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      createResourceCategory     $$$$$$$$$$
+2017-02-15 18:54:12,662 [main] INFO com.test.AdminTest - Create Resource Category
+2017-02-15 18:54:12,662 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Click on Admin Tab
+2017-02-15 18:54:27,029 [main] INFO com.ideator.page.admin.EnvironmentSettingPage - Resource category is created.
+2017-02-15 18:54:28,094 [main] INFO com.ideator.util.PageClass - createResourceCategory method is Passed
+2017-02-15 18:56:08,673 [main] INFO com.ideator.page.LoginPage - Click on Login Button
+2017-02-15 18:56:20,237 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-15 18:56:20,255 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      addUserIntoIdea     $$$$$$$$$$
+2017-02-15 18:56:20,255 [main] INFO com.test.AdminTest - Verify that user can remove team member if user has an access to it.
+2017-02-15 18:56:32,080 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Selenium Test Verification idea is Created
+2017-02-15 18:56:37,320 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Idea invite is send to User
+2017-02-15 18:56:53,772 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Open Mailinator in New Tab
+2017-02-15 18:57:24,524 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Click on NDA Checkbox for Ideator Agreement
+2017-02-15 18:57:29,148 [main] INFO com.ideator.page.LoginPage - Click on Login Button
+2017-02-15 18:57:39,505 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-15 18:58:00,619 [main] INFO com.ideator.page.superadmin.EditCommunityPage - User is deleted from Idea
+2017-02-15 18:58:26,330 [main] INFO com.ideator.util.PageClass - add_delete_UserIntoIdea method is Passed
+2017-02-15 18:58:46,887 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      checkCommunitySwitcher     $$$$$$$$$$
+2017-02-15 18:58:46,888 [main] INFO com.test.AdminTest - Community Switcher is Working properly or not
+2017-02-15 18:58:46,888 [main] INFO com.ideator.util.PageClass - Click on Switch community Tab
+2017-02-15 18:59:01,385 [main] INFO com.ideator.util.PageClass - checkCommunitySwitcher method is Passed
+2017-02-15 18:59:10,785 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      checkIdeaList     $$$$$$$$$$
+2017-02-15 18:59:10,785 [main] INFO com.test.AdminTest - Verify that the idea listing are present on which the user is currently working
+2017-02-15 18:59:36,451 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Selenium Test Verification idea is Created
+2017-02-15 18:59:36,451 [main] INFO com.ideator.util.PageClass - Click on My Profile Tab
+2017-02-15 18:59:50,881 [main] INFO com.ideator.util.PageClass - checkIdeaList method is Passed
+2017-02-15 19:00:01,447 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      clickPrivateMessage     $$$$$$$$$$
+2017-02-15 19:00:01,447 [main] INFO com.test.AdminTest - Avtar Private Message link is Working Properly
+2017-02-15 19:00:01,448 [main] INFO com.ideator.util.PageClass - Click on Private Messages Tab
+2017-02-15 19:00:17,013 [main] INFO com.ideator.util.PageClass - clickPrivateMessage method is Passed
+2017-02-15 19:00:32,985 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      clickonProfilePic     $$$$$$$$$$
+2017-02-15 19:00:32,985 [main] INFO com.test.AdminTest - Verify that on clicking on profile picture or user name, user is redirecting to user pubic profile page.
+2017-02-15 19:00:54,892 [main] INFO com.ideator.util.PageClass - ***** Error :: clickonProfilePic test has failed *****
+2017-02-15 19:00:55,018 [main] INFO com.ideator.util.PageClass - Screenshot is taken
+2017-02-15 19:00:55,024 [main] INFO com.ideator.util.PageClass - Testcase : clickonProfilePic is failed
+2017-02-15 19:01:08,143 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      commentOnDiscussion     $$$$$$$$$$
+2017-02-15 19:01:08,143 [main] INFO com.test.AdminTest - Verify that user can add or delete his/her comment on discussion.
+2017-02-15 19:01:30,526 [main] INFO com.ideator.util.PageClass - ***** Error :: commentOnDiscussion test has failed *****
+2017-02-15 19:01:30,635 [main] INFO com.ideator.util.PageClass - Screenshot is taken
+2017-02-15 19:01:30,644 [main] INFO com.ideator.util.PageClass - Testcase : commentOnDiscussion is failed
+2017-02-15 19:01:45,431 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      createNewIdea     $$$$$$$$$$
+2017-02-15 19:01:45,431 [main] INFO com.test.AdminTest - Verify create new idea
+2017-02-15 19:02:12,376 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Selenium Test Verification idea is Created
+2017-02-15 19:02:13,422 [main] INFO com.ideator.util.PageClass - createNewIdea method is Passed
+2017-02-15 19:02:23,893 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      deleteDiscussion     $$$$$$$$$$
+2017-02-15 19:02:23,894 [main] INFO com.test.AdminTest - Verify that on clicking on delete button, the discussion has been deleted.
+2017-02-15 19:02:43,325 [main] INFO com.ideator.util.PageClass - ***** Error :: deleteDiscussion test has failed *****
+2017-02-15 19:02:43,438 [main] INFO com.ideator.util.PageClass - Screenshot is taken
+2017-02-15 19:02:43,441 [main] INFO com.ideator.util.PageClass - Testcase : deleteDiscussion is failed
+2017-02-15 19:02:52,335 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      deleteIdea     $$$$$$$$$$
+2017-02-15 19:02:52,336 [main] INFO com.test.AdminTest - Delete Idea from table
+2017-02-15 19:03:02,313 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Idea is deleted
+2017-02-15 19:03:08,410 [main] INFO com.ideator.util.PageClass - deleteIdea method is Passed
+2017-02-15 19:03:14,113 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      editMyProfile     $$$$$$$$$$
+2017-02-15 19:03:14,113 [main] INFO com.test.AdminTest - User can Edit their Profile
+2017-02-15 19:03:14,114 [main] INFO com.ideator.util.PageClass - Click on My Profile Tab
+2017-02-15 19:03:36,382 [main] INFO com.ideator.page.superadmin.EditCommunityPage - User namedFirstname_Test profile is Edited
+2017-02-15 19:03:48,879 [main] INFO com.ideator.util.PageClass - editMyProfile method is Passed
+2017-02-15 19:03:58,348 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      editNewIdea     $$$$$$$$$$
+2017-02-15 19:03:58,349 [main] INFO com.test.AdminTest - Verify that Idea edit functionality is working fine
+2017-02-15 19:04:14,550 [main] INFO com.ideator.util.PageClass - ***** Error :: editNewIdea test has failed *****
+2017-02-15 19:04:14,749 [main] INFO com.ideator.util.PageClass - Screenshot is taken
+2017-02-15 19:04:14,750 [main] INFO com.ideator.util.PageClass - Testcase : editNewIdea is failed
+2017-02-15 19:04:31,242 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      likeIdeaFunctionality     $$$$$$$$$$
+2017-02-15 19:04:31,242 [main] INFO com.test.AdminTest - Verify that Public Idea liked by the user are seen under Liked section
+2017-02-15 19:04:58,441 [main] INFO com.ideator.util.PageClass - ***** Error :: likeIdeaFunctionality test has failed *****
+2017-02-15 19:04:58,553 [main] INFO com.ideator.util.PageClass - Screenshot is taken
+2017-02-15 19:04:58,554 [main] INFO com.ideator.util.PageClass - Testcase : likeIdeaFunctionality is failed
+2017-02-15 19:05:11,871 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      postDiscussion     $$$$$$$$$$
+2017-02-15 19:05:11,871 [main] INFO com.test.AdminTest - Verify that discussions posting functionality is working properly.
+2017-02-15 19:11:01,044 [main] INFO com.ideator.page.LoginPage - Click on Login Button
+2017-02-15 19:11:11,963 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-15 19:11:19,101 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      postDiscussion     $$$$$$$$$$
+2017-02-15 19:11:19,885 [main] INFO com.test.AdminTest - Verify that discussions posting functionality is working properly.
+2017-02-15 19:12:35,289 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Sample Test Discussion Discussion is Created
+2017-02-15 19:12:41,416 [main] INFO com.ideator.util.PageClass - postDiscussion method is Passed
+2017-02-15 19:12:49,762 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      commentOnDiscussion     $$$$$$$$$$
+2017-02-15 19:12:50,618 [main] INFO com.test.AdminTest - Verify that user can add or delete his/her comment on discussion.
+2017-02-15 19:13:07,306 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Comment is added on Discussion
+2017-02-15 19:13:11,714 [main] INFO com.ideator.util.PageClass - commentOnDiscussion method is Passed
+2017-02-15 19:13:18,482 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      clickonProfilePic     $$$$$$$$$$
+2017-02-15 19:13:19,131 [main] INFO com.test.AdminTest - Verify that on clicking on profile picture or user name, user is redirecting to user pubic profile page.
+2017-02-15 19:13:34,187 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Click on Profile pic
+2017-02-15 19:13:38,635 [main] INFO com.ideator.util.PageClass - clickonProfilePic method is Passed
+2017-02-15 19:13:45,579 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      deleteDiscussion     $$$$$$$$$$
+2017-02-15 19:13:46,115 [main] INFO com.test.AdminTest - Verify that on clicking on delete button, the discussion has been deleted.
+2017-02-15 19:13:57,908 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Discussion is deleted
+2017-02-15 19:14:03,445 [main] INFO com.ideator.util.PageClass - deleteDiscussion method is Passed
+2017-02-15 19:15:18,257 [main] INFO com.ideator.page.LoginPage - Click on Login Button
+2017-02-15 19:15:29,208 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-15 19:15:29,211 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      createNewIdea     $$$$$$$$$$
+2017-02-15 19:15:29,211 [main] INFO com.test.AdminTest - Verify create new idea
+2017-02-15 19:15:42,568 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Selenium Test Verification idea is Created
+2017-02-15 19:15:44,750 [main] INFO com.ideator.util.PageClass - createNewIdea method is Passed
+2017-02-15 19:15:50,905 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      editNewIdea     $$$$$$$$$$
+2017-02-15 19:15:50,906 [main] INFO com.test.AdminTest - Verify that Idea edit functionality is working fine
+2017-02-15 19:16:03,583 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Idea is Edited and Saved 
+2017-02-15 19:16:03,626 [main] INFO com.ideator.util.PageClass - editNewIdea method is Passed
+2017-02-15 19:16:07,888 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      publicTAbFunctionality     $$$$$$$$$$
+2017-02-15 19:16:07,889 [main] INFO com.test.AdminTest - Verify that Public Idea fields are only listed under public view
+2017-02-15 19:16:23,958 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Idea is Edited and Saved
+2017-02-15 19:16:25,796 [main] INFO com.ideator.util.PageClass - publicTAbFunctionality method is Passed
+2017-02-15 19:16:29,521 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      likeIdeaFunctionality     $$$$$$$$$$
+2017-02-15 19:16:29,522 [main] INFO com.test.AdminTest - Verify that Public Idea liked by the user are seen under Liked section
+2017-02-15 19:16:33,183 [main] INFO com.ideator.page.superadmin.EditCommunityPage - User like Idea
+2017-02-15 19:16:34,740 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Navigate to Idea Page
+2017-02-15 19:16:36,980 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Navigate to Liked idea Tab 
+2017-02-15 19:16:38,513 [main] INFO com.ideator.util.PageClass - likeIdeaFunctionality method is Passed
+2017-02-15 19:16:42,841 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      searchIdeaFunctionality     $$$$$$$$$$
+2017-02-15 19:16:42,842 [main] INFO com.test.AdminTest - Verify that search functionality is working fine
+2017-02-15 19:16:43,101 [main] INFO com.ideator.page.superadmin.EditCommunityPage - keyword is type on search textbox and Click on Search Button
+2017-02-15 19:16:44,752 [main] INFO com.ideator.util.PageClass - ***** Error :: searchIdeaFunctionality test has failed *****
+2017-02-15 19:16:44,948 [main] INFO com.ideator.util.PageClass - Screenshot is taken
+2017-02-15 19:16:44,970 [main] INFO com.ideator.util.PageClass - Testcase : searchIdeaFunctionality is failed
+2017-02-15 19:16:48,899 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      sortIdeaFunctionality     $$$$$$$$$$
+2017-02-15 19:16:48,900 [main] INFO com.test.AdminTest - Verify that sort functionality is working fine
+2017-02-15 19:17:05,077 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Hello Second Idea idea is Created
+2017-02-15 19:17:11,950 [main] INFO com.ideator.util.PageClass - sortIdeaFunctionality method is Passed
+2017-02-15 19:17:16,089 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      editMyProfile     $$$$$$$$$$
+2017-02-15 19:17:16,090 [main] INFO com.test.AdminTest - User can Edit their Profile
+2017-02-15 19:17:16,090 [main] INFO com.ideator.util.PageClass - Click on My Profile Tab
+2017-02-15 19:17:26,576 [main] INFO com.ideator.page.superadmin.EditCommunityPage - User namedFirstname_Test profile is Edited
+2017-02-15 19:17:29,737 [main] INFO com.ideator.util.PageClass - editMyProfile method is Passed
+2017-02-15 19:17:32,928 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      searchIdeaFunctionality     $$$$$$$$$$
+2017-02-15 19:17:32,928 [main] INFO com.test.AdminTest - Verify that search functionality is working fine
+2017-02-15 19:17:41,732 [main] INFO com.ideator.util.PageClass - XXXXXXXX       -E---N---D-     XXXXXXXXXX
+2017-02-15 19:17:41,733 [main] INFO com.ideator.util.PageClass - searchPeopleFunctionality method is Passed
+2017-02-15 19:17:45,805 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      checkIdeaList     $$$$$$$$$$
+2017-02-15 19:17:45,805 [main] INFO com.test.AdminTest - Verify that the idea listing are present on which the user is currently working
+2017-02-15 19:17:59,891 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Selenium Test Verification idea is Created
+2017-02-15 19:17:59,892 [main] INFO com.ideator.util.PageClass - Click on My Profile Tab
+2017-02-15 19:18:03,298 [main] INFO com.ideator.util.PageClass - checkIdeaList method is Passed
+2017-02-15 19:18:06,224 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      postDiscussion     $$$$$$$$$$
+2017-02-15 19:18:06,224 [main] INFO com.test.AdminTest - Verify that discussions posting functionality is working properly.
+2017-02-15 19:18:15,416 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Sample Test Discussion Discussion is Created
+2017-02-15 19:18:15,488 [main] INFO com.ideator.util.PageClass - postDiscussion method is Passed
+2017-02-15 19:18:18,225 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      commentOnDiscussion     $$$$$$$$$$
+2017-02-15 19:18:18,225 [main] INFO com.test.AdminTest - Verify that user can add or delete his/her comment on discussion.
+2017-02-15 19:18:24,627 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Comment is added on Discussion
+2017-02-15 19:18:25,215 [main] INFO com.ideator.util.PageClass - commentOnDiscussion method is Passed
+2017-02-15 19:18:28,170 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      clickonProfilePic     $$$$$$$$$$
+2017-02-15 19:18:28,170 [main] INFO com.test.AdminTest - Verify that on clicking on profile picture or user name, user is redirecting to user pubic profile page.
+2017-02-15 19:18:34,477 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Click on Profile pic
+2017-02-15 19:18:35,191 [main] INFO com.ideator.util.PageClass - clickonProfilePic method is Passed
+2017-02-15 19:18:39,434 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      deleteDiscussion     $$$$$$$$$$
+2017-02-15 19:18:39,434 [main] INFO com.test.AdminTest - Verify that on clicking on delete button, the discussion has been deleted.
+2017-02-15 19:18:42,690 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Discussion is deleted
+2017-02-15 19:18:46,128 [main] INFO com.ideator.util.PageClass - deleteDiscussion method is Passed
+2017-02-15 19:18:50,307 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      addUserIntoIdea     $$$$$$$$$$
+2017-02-15 19:18:50,307 [main] INFO com.test.AdminTest - Verify that user can remove team member if user has an access to it.
+2017-02-15 19:19:05,067 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Selenium Test Verification idea is Created
+2017-02-15 19:19:11,120 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Idea invite is send to User
+2017-02-15 19:19:22,283 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Open Mailinator in New Tab
+2017-02-15 19:20:14,365 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Click on NDA Checkbox for Ideator Agreement
+2017-02-15 19:20:18,194 [main] INFO com.ideator.page.LoginPage - Click on Login Button
+2017-02-15 19:20:28,493 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-15 19:20:47,823 [main] INFO com.ideator.page.superadmin.EditCommunityPage - User is deleted from Idea
+2017-02-15 19:21:11,225 [main] INFO com.ideator.util.PageClass - add_delete_UserIntoIdea method is Passed
+2017-02-15 19:21:27,912 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      deleteIdea     $$$$$$$$$$
+2017-02-15 19:21:27,913 [main] INFO com.test.AdminTest - Delete Idea from table
+2017-02-15 19:21:39,132 [main] INFO com.ideator.page.superadmin.EditCommunityPage - Idea is deleted
+2017-02-15 19:21:46,607 [main] INFO com.ideator.util.PageClass - deleteIdea method is Passed
+2017-02-15 19:21:53,297 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      signOut     $$$$$$$$$$
+2017-02-15 19:21:53,298 [main] INFO com.test.AdminTest - User is Sign Out from System
+2017-02-15 19:21:53,298 [main] INFO com.ideator.util.PageClass - Click on Sign Out Tab
+2017-02-15 19:22:03,077 [main] INFO com.ideator.util.PageClass - signOut method is Passed
+2017-02-15 19:22:18,276 [main] INFO com.ideator.page.LoginPage - Click on Login Button
+2017-02-15 19:22:28,553 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-15 19:22:28,553 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      checkCommunitySwitcher     $$$$$$$$$$
+2017-02-15 19:22:28,553 [main] INFO com.test.AdminTest - Community Switcher is Working properly or not
+2017-02-15 19:22:28,553 [main] INFO com.ideator.util.PageClass - Click on Switch community Tab
+2017-02-15 19:22:38,608 [main] INFO com.ideator.util.PageClass - ***** Error :: checkCommunitySwitcher test has failed *****
+2017-02-15 19:22:44,308 [main] INFO com.ideator.util.PageClass - Screenshot is taken
+2017-02-15 19:22:44,314 [main] INFO com.ideator.util.PageClass - Testcase : checkCommunitySwitcher is failed
+2017-02-15 19:22:53,365 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      clickPrivateMessage     $$$$$$$$$$
+2017-02-15 19:22:53,365 [main] INFO com.test.AdminTest - Avtar Private Message link is Working Properly
+2017-02-15 19:22:53,365 [main] INFO com.ideator.util.PageClass - Click on Private Messages Tab
+2017-02-15 19:23:09,381 [main] INFO com.ideator.util.PageClass - clickPrivateMessage method is Passed
+2017-02-15 19:30:11,652 [main] INFO com.ideator.page.LoginPage - Click on Login Button
+2017-02-15 19:30:22,709 [main] INFO com.ideator.page.LoginPage - Enter Username and Password and click on Submit Button
+2017-02-15 19:30:22,713 [main] INFO com.ideator.util.PageClass - $$$$$$$$$      checkCommunitySwitcher     $$$$$$$$$$
+2017-02-15 19:30:22,714 [main] INFO com.test.AdminTest - Community Switcher is Working properly or not
+2017-02-15 19:30:22,715 [main] INFO com.ideator.util.PageClass - Click on Switch community Tab
+2017-02-15 19:30:33,992 [main] INFO com.ideator.util.PageClass - checkCommunitySwitcher method is Passed

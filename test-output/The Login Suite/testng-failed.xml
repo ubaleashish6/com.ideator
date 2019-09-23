@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [The Login Suite]">
+  <test name="Tests [](failed)">
+    <classes>
+      <class name="com.test.PublicUser">
+        <methods>
+          <include name="afterSuite"/>
+          <include name="beforeSuite"/>
+        </methods>
+      </class> <!-- com.test.PublicUser -->
+      <class name="com.test.AdminTestSample">
+        <methods>
+          <include name="beforeSuite"/>
+          <include name="addUserCommunity"/>
+          <include name="createNewIdea"/>
+          <include name="afterMethod"/>
+          <include name="afterSuite"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.test.AdminTestSample -->
+    </classes>
+  </test> <!-- Tests [](failed) -->
+</suite> <!-- Failed suite [The Login Suite] -->

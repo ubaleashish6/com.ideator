@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />  
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-The_ideator_Suite">
+              <span class="suite-name border-passed">The ideator Suite</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-The_ideator_Suite">
+                    <span>[unset file name]</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-The_ideator_Suite">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-The_ideator_Suite">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-The_ideator_Suite">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-The_ideator_Suite">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-The_ideator_Suite">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-The_ideator_Suite">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">1 method,   1 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-The_ideator_Suite" class="hide-methods passed suite-The_ideator_Suite"> (hide)</a> <!-- hide-methods passed suite-The_ideator_Suite -->
+                      <a href="#" panel-name="suite-The_ideator_Suite" class="show-methods passed suite-The_ideator_Suite"> (show)</a> <!-- show-methods passed suite-The_ideator_Suite -->
+                    </span>
+                    <div class="method-list-content passed suite-The_ideator_Suite">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-The_ideator_Suite" title="com.test.PublicUser" hash-for-method="checkCommunitySwitcher">checkCommunitySwitcher</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-The_ideator_Suite -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-The_ideator_Suite" class="panel The_ideator_Suite">
+          <div class="suite-The_ideator_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.test.PublicUser</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkCommunitySwitcher">
+                  </a> <!-- checkCommunitySwitcher -->
+                  <span class="method-name">checkCommunitySwitcher</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-The_ideator_Suite-class-passed -->
+        </div> <!-- panel The_ideator_Suite -->
+        <div panel-name="test-xml-The_ideator_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite name=&quot;The ideator Suite&quot;&gt;
+  &lt;test name=&quot;Tests [createNewIdea, editNewIdea, publicTAbFunctionality, likeIdeaFunctionality, searchIdeaFunctionality, sortIdeaFunctionality, editMyProfile, searchPeopleFunctionality, checkIdeaList, postDiscussion, commentOnDiscussion, clickonProfilePic, deleteDiscussion, add_delete_UserIntoIdea, deleteIdea, signOut, clickPrivateMessage]&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.test.PublicUser&quot;&gt;
+        &lt;methods&gt;
+          &lt;exclude name=&quot;createNewIdea&quot;/&gt;
+          &lt;exclude name=&quot;editNewIdea&quot;/&gt;
+          &lt;exclude name=&quot;publicTAbFunctionality&quot;/&gt;
+          &lt;exclude name=&quot;likeIdeaFunctionality&quot;/&gt;
+          &lt;exclude name=&quot;searchIdeaFunctionality&quot;/&gt;
+          &lt;exclude name=&quot;sortIdeaFunctionality&quot;/&gt;
+          &lt;exclude name=&quot;editMyProfile&quot;/&gt;
+          &lt;exclude name=&quot;searchPeopleFunctionality&quot;/&gt;
+          &lt;exclude name=&quot;checkIdeaList&quot;/&gt;
+          &lt;exclude name=&quot;postDiscussion&quot;/&gt;
+          &lt;exclude name=&quot;commentOnDiscussion&quot;/&gt;
+          &lt;exclude name=&quot;clickonProfilePic&quot;/&gt;
+          &lt;exclude name=&quot;deleteDiscussion&quot;/&gt;
+          &lt;exclude name=&quot;add_delete_UserIntoIdea&quot;/&gt;
+          &lt;exclude name=&quot;deleteIdea&quot;/&gt;
+          &lt;exclude name=&quot;signOut&quot;/&gt;
+          &lt;exclude name=&quot;clickPrivateMessage&quot;/&gt;
+        &lt;/methods&gt;
+      &lt;/class&gt; &lt;!-- com.test.PublicUser --&gt;
+      &lt;class name=&quot;com.test.PublicUser&quot;&gt;
+        &lt;methods&gt;
+          &lt;exclude name=&quot;createNewIdea&quot;/&gt;
+          &lt;exclude name=&quot;editNewIdea&quot;/&gt;
+          &lt;exclude name=&quot;publicTAbFunctionality&quot;/&gt;
+          &lt;exclude name=&quot;likeIdeaFunctionality&quot;/&gt;
+          &lt;exclude name=&quot;searchIdeaFunctionality&quot;/&gt;
+          &lt;exclude name=&quot;sortIdeaFunctionality&quot;/&gt;
+          &lt;exclude name=&quot;editMyProfile&quot;/&gt;
+          &lt;exclude name=&quot;searchPeopleFunctionality&quot;/&gt;
+          &lt;exclude name=&quot;checkIdeaList&quot;/&gt;
+          &lt;exclude name=&quot;postDiscussion&quot;/&gt;
+          &lt;exclude name=&quot;commentOnDiscussion&quot;/&gt;
+          &lt;exclude name=&quot;clickonProfilePic&quot;/&gt;
+          &lt;exclude name=&quot;deleteDiscussion&quot;/&gt;
+          &lt;exclude name=&quot;add_delete_UserIntoIdea&quot;/&gt;
+          &lt;exclude name=&quot;deleteIdea&quot;/&gt;
+          &lt;exclude name=&quot;signOut&quot;/&gt;
+          &lt;exclude name=&quot;clickPrivateMessage&quot;/&gt;
+        &lt;/methods&gt;
+      &lt;/class&gt; &lt;!-- com.test.PublicUser --&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Tests [createNewIdea, editNewIdea, publicTAbFunctionality, likeIdeaFunctionality, searchIdeaFunctionality, sortIdeaFunctionality, editMyProfile, searchPeopleFunctionality, checkIdeaList, postDiscussion, commentOnDiscussion, clickonProfilePic, deleteDiscussion, add_delete_UserIntoIdea, deleteIdea, signOut, clickPrivateMessage] --&gt;
+&lt;/suite&gt; &lt;!-- The ideator Suite --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-The_ideator_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for The ideator Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">Tests [createNewIdea, editNewIdea, publicTAbFunctionality, likeIdeaFunctionality, searchIdeaFunctionality, sortIdeaFunctionality, editMyProfile, searchPeopleFunctionality, checkIdeaList, postDiscussion, commentOnDiscussion, clickonProfilePic, deleteDiscussion, add_delete_UserIntoIdea, deleteIdea, signOut, clickPrivateMessage] (2 classes)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-The_ideator_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for The ideator Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-The_ideator_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for The ideator Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_The_ideator_Suite');
+function tableData_The_ideator_Suite() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(1);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'checkCommunitySwitcher')
+data.setCell(0, 2, 'com.test.PublicUser')
+data.setCell(0, 3, 11278);
+window.suiteTableData['The_ideator_Suite']= { tableData: data, tableDiv: 'times-div-The_ideator_Suite'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 11 seconds</span>
+              <div id="times-div-The_ideator_Suite">
+              </div> <!-- times-div-The_ideator_Suite -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-The_ideator_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for The ideator Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-The_ideator_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">17 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.test.PublicUser</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">createNewIdea</span>
+                <br/>
+                <span class="ignored-method-name">editMyProfile</span>
+                <br/>
+                <span class="ignored-method-name">publicTAbFunctionality</span>
+                <br/>
+                <span class="ignored-method-name">likeIdeaFunctionality</span>
+                <br/>
+                <span class="ignored-method-name">deleteDiscussion</span>
+                <br/>
+                <span class="ignored-method-name">searchIdeaFunctionality</span>
+                <br/>
+                <span class="ignored-method-name">add_delete_UserIntoIdea</span>
+                <br/>
+                <span class="ignored-method-name">clickonProfilePic</span>
+                <br/>
+                <span class="ignored-method-name">clickPrivateMessage</span>
+                <br/>
+                <span class="ignored-method-name">deleteIdea</span>
+                <br/>
+                <span class="ignored-method-name">signOut</span>
+                <br/>
+                <span class="ignored-method-name">checkIdeaList</span>
+                <br/>
+                <span class="ignored-method-name">postDiscussion</span>
+                <br/>
+                <span class="ignored-method-name">sortIdeaFunctionality</span>
+                <br/>
+                <span class="ignored-method-name">searchPeopleFunctionality</span>
+                <br/>
+                <span class="ignored-method-name">editNewIdea</span>
+                <br/>
+                <span class="ignored-method-name">commentOnDiscussion</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-The_ideator_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.test.PublicUser</div> <!-- chronological-class-name -->
+              <div class="configuration-suite before">
+                <span class="method-name">beforeSuite</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-suite before -->
+              <div class="configuration-class before">
+                <span class="method-name">beforeClass</span>
+                <span class="method-start">295 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="configuration-method before">
+                <span class="method-name">beforeMethod</span>
+                <span class="method-start">35727 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">checkCommunitySwitcher</span>
+                <span class="method-start">56888 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">afterMethod([TestResult name=checkCommunitySwitcher status=SUCCESS method=PublicUser.checkCommunitySwitcher()[pr...)</span>
+                <span class="method-start">68169 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-class after">
+                <span class="method-name">afterClass</span>
+                <span class="method-start">68701 ms</span>
+              </div> <!-- configuration-class after -->
+              <div class="configuration-suite after">
+                <span class="method-name">afterSuite</span>
+                <span class="method-start">71508 ms</span>
+              </div> <!-- configuration-suite after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>
